@@ -16,9 +16,8 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?&key=AIzaSyDRF44dsR7VmWFn6zIteBaQ2hUTXpJCxH8&libraries=places,visualization"></script>
-    <%--    <script src="https://maps.googleapis.com/maps/api/js?&key=AIzaSyA6mt-DsyboQ3D1u5RQYjP36PzlMmFf6zI&signed_in=true&libraries=places,visualization"></script>--%>
-
+    <script src="https://maps.googleapis.com/maps/api/js?&key=APIKEY&libraries=places,visualization"></script>
+ 
 </head>
 
 <body>
